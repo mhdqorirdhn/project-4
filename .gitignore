@@ -1,0 +1,18 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+modelling/.ipynb_checkpoints/
+producer/.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+modelling/__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore CSV data files
+hasil_data.csv
+producer/New_Information.csv
+producer/Old_Information.csv
+
+.env
